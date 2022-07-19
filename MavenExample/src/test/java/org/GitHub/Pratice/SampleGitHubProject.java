@@ -7,6 +7,9 @@ public class SampleGitHubProject {
 public void GithubSample(){
 	System.out.println("DK");
 }
-
+@Test
+public void GithubSample1(){
+	System.out.println("DKS");
+}
 
 }
