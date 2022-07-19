@@ -5,7 +5,8 @@ import org.testng.annotations.Test;
 public class SampleGitHubProject {
 @Test
 public void GithubSample(){
-	System.out.println("DK");
+	System.out.println("DK");//Again changes done
+	
 }
 @Test
 public void GithubSample1(){
