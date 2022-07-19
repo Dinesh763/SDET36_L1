@@ -9,7 +9,7 @@ public void GithubSample(){
 }
 @Test
 public void GithubSample1(){
-	System.out.println("DKS");
+	System.out.println("DKS");//Changes Done
 }
 
 }
