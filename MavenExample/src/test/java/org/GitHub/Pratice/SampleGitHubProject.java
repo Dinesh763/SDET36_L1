@@ -10,6 +10,7 @@ public void GithubSample(){
 @Test
 public void GithubSample1(){
 	System.out.println("DKS");//Changes Done
+	System.out.println("Not done");
 }
 
 }
