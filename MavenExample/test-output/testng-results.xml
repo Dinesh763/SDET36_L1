@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[HIE17]]>
+    </line>
+    <line>
+      <![CDATA[HID18]]>
+    </line>
+    <line>
+      <![CDATA[HIA19]]>
+    </line>
+    <line>
+      <![CDATA[HIF17]]>
+    </line>
+    <line>
+      <![CDATA[HIB19]]>
+    </line>
+    <line>
+      <![CDATA[HIC19]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-07-18T10:01:13Z" name="Suite" finished-at="2022-07-18T10:01:25Z" duration-ms="11208">
+    <groups>
+    </groups>
+    <test started-at="2022-07-18T10:01:13Z" name="Test" finished-at="2022-07-18T10:01:25Z" duration-ms="11208">
+      <class name="org.Maven.Pratice.MavenExampleTest">
+        <test-method signature="testSetup1()[pri:0, instance:org.Maven.Pratice.MavenExampleTest@20ca951f]" started-at="2022-07-18T15:31:13Z" name="testSetup1" finished-at="2022-07-18T15:31:20Z" duration-ms="6768" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[HIA19]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testSetup1 -->
+        <test-method signature="testSetup2()[pri:0, instance:org.Maven.Pratice.MavenExampleTest@20ca951f]" started-at="2022-07-18T15:31:20Z" name="testSetup2" finished-at="2022-07-18T15:31:23Z" duration-ms="2819" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[HIB19]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testSetup2 -->
+        <test-method signature="testSetup3()[pri:0, instance:org.Maven.Pratice.MavenExampleTest@20ca951f]" started-at="2022-07-18T15:31:23Z" name="testSetup3" finished-at="2022-07-18T15:31:25Z" duration-ms="1580" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[HIC19]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testSetup3 -->
+      </class> <!-- org.Maven.Pratice.MavenExampleTest -->
+      <class name="org.Maven.Pratice.MavenExample2Test">
+        <test-method signature="testSetup21()[pri:0, instance:org.Maven.Pratice.MavenExample2Test@6f7923a5]" started-at="2022-07-18T15:31:13Z" name="testSetup21" finished-at="2022-07-18T15:31:20Z" duration-ms="6800" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[HIE17]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testSetup21 -->
+        <test-method signature="testSetup22()[pri:0, instance:org.Maven.Pratice.MavenExample2Test@6f7923a5]" started-at="2022-07-18T15:31:20Z" name="testSetup22" finished-at="2022-07-18T15:31:23Z" duration-ms="2662" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[HIF17]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testSetup22 -->
+      </class> <!-- org.Maven.Pratice.MavenExample2Test -->
+      <class name="org.Maven.Pratice.MavenExample1Test">
+        <test-method signature="testSetup11()[pri:0, instance:org.Maven.Pratice.MavenExample1Test@63611043]" started-at="2022-07-18T15:31:13Z" name="testSetup11" finished-at="2022-07-18T15:31:20Z" duration-ms="6974" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[HID18]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testSetup11 -->
+      </class> <!-- org.Maven.Pratice.MavenExample1Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
